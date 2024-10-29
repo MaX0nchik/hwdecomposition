@@ -1,0 +1,155 @@
+#root {
+  max-width: 1280px;
+}
+
+
+.top{
+  width: 800px;
+  height: 230px; 
+  margin: 0 auto;
+}
+
+.topblocknews {
+  width: 700px;
+  height: 180px;
+  display: flex;
+}
+
+
+.newsheads{
+  display: block;  
+  text-align: center;
+  height: 25px;
+}
+
+.newsselect_main {
+  display: inline-block;
+  font-weight: bold;  
+  width: 120px;
+}
+
+.newsselect_secondary {
+  display: inline-block;
+  width: 120px;
+  font-weight: bold;
+}
+
+.date {
+  display: inline-block;
+  width: 150px;
+}
+
+.newsitem {
+  display: block;
+  height: 30px;
+  margin-top: 0px;
+}
+
+.newsitems {
+  display: inline-block;
+  margin-left: 5%;
+}
+
+.newsblock {
+  display: block;
+  width: 550px;
+}
+
+
+.widget{
+  display: inline-block;
+  width: 150px;
+  margin-top: 30px;
+  text-align: left;
+  padding-top: 30px;
+}
+
+.marketspan{
+  font-weight: bold;
+  margin-left: 15px;
+  align-items: center;
+}
+
+.mar {
+  margin-left: 15px;
+}
+
+.searchblock{
+  display: flex;
+  padding-top: 10px;
+  width: 900px;
+}
+
+.searchstring{
+  display: block;
+  width: 800px;
+}
+
+.logo{
+  display: block;
+  width: 100px;
+  margin-left: 10px;
+  margin-top: 20px;
+  height: 50px;
+}
+
+.category{
+  display: inline-block;
+}
+
+.categoryselect{
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.inputfind{
+  width: 700px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.examplefind{
+  margin-left: 15px;
+}
+
+.imgbanner{
+  margin-top: 25px;
+  margin-left: 110px;
+  width: 700px;
+}
+
+.services{
+  display: flex;
+  flex-wrap: wrap;
+  width: 900px;
+  height: 380px;
+  justify-content: center;
+}
+
+
+.weather{
+  width:80%;
+  height: 100px;
+}
+
+.visitrefs{
+  width:100%;
+  height: auto;
+}
+
+.map{
+  width:60%;
+  height: auto;
+}
+
+.tvprogram{
+  padding-top: 5%;
+  width:100%;
+  height: 100px;
+}
+
+.live{
+  margin-left: 30%;
+  width: 150px;
+  height: 100px;
+}
